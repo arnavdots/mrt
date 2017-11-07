@@ -1,0 +1,133 @@
+/**
+ * Custom css for override and add new css 
+ */
+
+.changeStatus {
+    cursor: pointer;
+}
+/**
+ * Datepicker For Calendar 
+ */
+.daterangepicker {
+  background-color: #787777;
+}
+.ranges li {
+  background-color: #222222;
+  border-color: #222222;
+  color: #fff;
+}
+.ranges li:hover,.ranges li.active{
+    background-color: #90c32a;
+    border-color:#90c32a;
+}
+.range_inputs .btn-success {
+    background: rgba(0, 0, 0, 0) url("../images/admin/green-btn-bg.png") no-repeat scroll center center;
+    border:none;
+}
+.range_inputs .cancelBtn {
+    background: rgba(0, 0, 0, 0) url("../images/admin/red-btn-bg.png") no-repeat scroll center center;
+    border:none;
+    color:#fff;
+}
+.daterangepicker::before {
+  border-bottom: 7px solid #787777;
+}
+.daterangepicker::after {
+  border-bottom: 6px solid #787777;
+}
+.daterangepicker .form-control {
+  background-color: #222;
+  border-color: #222;
+  color: #fff;
+}
+.daterangepicker .daterangepicker_input i {
+  color: #fff;
+}
+.daterangepicker select {
+  background: #222 url("../images/admin/sltd-bg1.jpg") no-repeat scroll right center;
+  background-size: 14px auto;
+  border: medium none;
+  color: #fff;
+}
+.daterangepicker td.active, .daterangepicker td.active:hover {
+  background-color: #99cc33;
+}
+.daterangepicker .input-mini.active {
+  border: 1px solid #222;
+}
+
+.alert {
+    margin-bottom: 0px; 
+}
+
+.loading-overlay {
+    z-index: 1051 !important;
+}
+ 
+
+
+
+ .astrickSign::after{ 
+    content:"*"; 
+    color:red; 
+    padding-left:5px;
+}
+
+
+.select2-container .select2-selection--single {
+  height: 40px;
+}
+.select2-container--default .select2-selection--single {
+  background: #ffffff url("../images/admin/sltd-bg2.png") no-repeat scroll right center;
+  border: 1px solid #dddddd;
+  border-radius: 0;
+}
+.select2-container .select2-selection--single .select2-selection__rendered {
+  padding-right: 35px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  color: #4e4c4c;
+  font-family: "HelveticaNeueLt",Arial,sans-serif;
+  font-size: 20px;
+  line-height: 38px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+  display:none;
+}
+.select2-dropdown {
+  border-radius: 0 !important;
+}
+
+@media only screen and (max-width:1800px){
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  font-size: 18px;
+}
+}
+@media only screen and (max-width:1600px){
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  font-size: 16px;
+}
+}
+@media only screen and (max-width:1400px){
+.select2-container .select2-selection--single {
+  height: 36px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  font-size: 14px;
+  line-height: 34px;
+}
+}
+@media only screen and (max-width:1339px){
+  
+}
+@media only screen and (max-width:1199px){
+}
+@media only screen and (max-width:991px){
+}
+
+.custom-table1 .table-bordered > thead > tr > th > a {
+    color: #99cc33;
+}
+.exceedTime
+{ background-color: #f00;}
+    

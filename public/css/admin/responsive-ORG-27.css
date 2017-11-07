@@ -1,0 +1,786 @@
+@media only screen and (max-width:1900px){
+.menu ul li a img {
+  height: 70px;
+}
+.menu ul li a {
+  font-size: 15px;
+  margin: 0 2px;
+}
+.login-btn {
+  border-radius: 5px;
+  font-size: 19px;
+  height: 40px;
+  line-height: 40px;
+  width: 110px;
+}
+.setting-btn {
+  width: 48px;
+}
+.tab-box .nav-tabs > li > a {
+  font-size: 20px;
+  padding: 0 80px;
+}
+.dashboard-box1 {
+  padding: 20px 25px;
+}
+.cmn-add-btn {
+  border-radius: 12px;
+  font-size: 19px;
+  height: 84px;
+  width: 160px;
+}
+.cmn-top-form label {
+  font-size: 18px;
+  margin: 3px 10px 0 0;
+}
+.cmn-top-form .form-control {
+  font-size: 18px;
+}
+.top-rt-form {
+  margin: 25px 0 0 25px;
+}
+.cmn-top-form {
+  margin: 0 25px 0 0;
+}
+.custom-table1 .table-bordered > thead > tr > th, .custom-table1 .table-bordered > tbody > tr > td {
+  font-size: 18px;
+}
+.cmn-popup-form .form-group label,.cmn-popup-form .form-control {
+  font-size: 20px;
+}
+.cmn-btn {
+  font-size: 19px;
+  height: 46px;
+  line-height: 46px;
+}
+.btn-outer1 {
+  margin: 0 -10px;
+}
+.cmn-btn-wd {
+  padding: 0 10px 15px;
+}
+.custom-table2 .table-bordered > thead > tr > th, .custom-table2 .table-bordered > tbody > tr > td {
+  font-size: 20px;
+}
+.check-custom input[type="checkbox"] + label,label.notes, .file-btn-lt label,.form-box2 textarea.form-control {
+  font-size: 20px;
+}
+.wd-inr1 {
+  width: 324px;
+}
+}
+@media only screen and (max-width:1800px){
+.login-inr .form-group label,.form-control,.check-custom.chk-lt input[type="checkbox"] + label,.frg-btn {
+  font-size: 18px;
+}
+
+.menu ul li a img {
+  height: 55px;
+}
+.menu ul li a {
+  margin: 0 2px;
+  padding: 8px 12px;
+}
+.login-btn {
+  border-radius: 5px;
+  font-size: 18px;
+  height: 36px;
+  line-height: 36px;
+  margin-top: 0;
+  width: 100px;
+}
+.setting-btn {
+  width: 40px;
+}
+.hdr-box2 {
+  font-size: 15px;
+  padding: 5px 0 0;
+}	
+.header {
+  padding: 10px 10px 25px;
+}
+.tab-box .nav-tabs > li > a {
+  font-size: 19px;
+  line-height: 36px;
+  padding: 0 70px;
+}
+.cmn-add-btn {
+  border-radius: 10px;
+  font-size: 17px;
+  height: 74px;
+  width: 140px;
+}
+.cmn-top-form label,.cmn-top-form .form-control {
+  font-size: 17px;
+}
+.cmn-top-form .form-control {
+  padding-bottom: 3px;
+}
+.wd-inr1 {
+  width: 290px;
+}
+.wd-inr2 {
+  width: 150px;
+}
+.wd-inr3 {
+  width: 190px;
+}
+.wd-inr4, .wd-inr5 {
+  width: 170px;
+}
+.dashboard-box1 {
+  padding: 20px;
+}
+.custom-table1 .table-bordered > thead > tr > th, .custom-table1 .table-bordered > tbody > tr > td {
+  font-size: 17px;
+}
+.top-rt-form {
+  margin: 21px 0 0 21px;
+}
+.cmn-popup-form .form-group label, .cmn-popup-form .form-control {
+  font-size: 18px;
+}
+.cmn-btn {
+  font-size: 17px;
+  height: 44px;
+  line-height: 44px;
+}
+.custom-table2 .table-bordered > thead > tr > th, .custom-table2 .table-bordered > tbody > tr > td {
+  font-size: 18px;
+}
+.close-btn {
+  height: 36px;
+  width: 36px;
+}
+.check-custom input[type="checkbox"] + label,label.notes, .file-btn-lt label,.form-box2 textarea.form-control {
+  font-size: 18px;
+}
+.new-task-frm .wd-inr1 {
+  width: 250px;
+}
+.new-task-frm .wd-inr2 {
+  width: 128px;
+}
+.global-form label,.check-custom.chk-lt input[type="checkbox"] + label, .radio-custom.rdo-lt input[type="radio"] + label,.radio-custom input[type="radio"] + label{
+	font-size:18px;
+}
+.ldr-img {
+  top: 7px;
+}
+.setting-nav::before {
+  border-width: 7px;
+  right: 15px;
+}
+.rt-btn2 {
+  margin-top: 15px;
+}
+.custom-popup2 .pop-inr-box1 {
+  padding-top: 60px;
+}
+.cmn-top-form {
+  margin: 0 20px 0 0;
+}
+}
+@media only screen and (max-width:1600px){
+body{
+	font-size:15px;
+}
+.login-inr h1 {
+  font-size: 28px;
+}
+.login-inr .form-group label,.form-control,.check-custom.chk-lt input[type="checkbox"] + label,.frg-btn {
+  font-size: 16px;
+}
+
+.menu ul li a img {
+  height: 45px;
+}
+.menu ul li a {
+  font-size: 13px;
+  margin: 0 1px;
+  padding: 8px 11px;
+}
+.login-btn {
+  border-radius: 3px;
+  font-size: 16px;
+  height: 32px;
+  line-height: 30px;
+  margin-right: 10px;
+  margin-top: 0;
+  width: 90px;
+}
+.setting-btn {
+  width: 32px;
+}
+.hdr-box2 {
+  font-size: 14px;
+}
+.tab-box .nav-tabs > li > a {
+  font-size: 18px;
+  line-height: 34px;
+  padding: 0 60px;
+}
+.tab-box .nav-tabs > li {
+  border-right-width: 1px;
+}
+.cmn-add-btn {
+  font-size: 15px;
+  height: 63px;
+  width: 120px;
+}
+.cmn-top-form label, .cmn-top-form .form-control {
+  font-size: 15px;
+}
+.cmn-top-form .form-control {
+  border-radius: 6px;
+  padding-bottom: 1px;
+}
+.wd-inr1 {
+  width: 250px;
+}
+.wd-inr2 {
+  width: 130px;
+}
+.wd-inr3 {
+  width: 180px;
+}
+.wd-inr4, .wd-inr5 {
+  width: 150px;
+}
+.cmn-top-form label {
+  margin: 5px 8px 0 0;
+}
+.top-rt-form {
+  margin: 15px 0 0 15px;
+}
+.custom-table1 .table-bordered > thead > tr > th, .custom-table1 .table-bordered > tbody > tr > td {
+  font-size: 15px;
+}
+.cmn-popup-form .form-group label, .cmn-popup-form .form-control {
+  font-size: 16px;
+}
+.cmn-popup-form .form-control {
+  height: 34px;
+}
+.arrow-btn {
+  width: 36px;
+}
+.field5 {
+  width: 58%;
+}
+.btn-outer1 {
+  margin: 0 -5px;
+}
+.cmn-btn-wd {
+  padding: 0 5px 10px;
+}
+.cmn-btn {
+  font-size: 15px;
+  height: 44px;
+  line-height: 44px;
+}
+.close-btn {
+  height: 32px;
+  width: 32px;
+}
+.pop-inr-box1 {
+  padding: 30px 20px 20px;
+}
+.custom-table2 .table-bordered > thead > tr > th, .custom-table2 .table-bordered > tbody > tr > td {
+  font-size: 16px;
+}
+.cmn-popup-form select.form-control {
+  background-size: 20px auto;
+}
+.cmn-top-form select.form-control,.cmn-popup-form select.form-control.sltd1 {
+  background-size: 24px auto;
+}
+.cmn-popup-form select.form-control.text-right {
+  padding-right: 30px;
+}
+.check-custom input[type="checkbox"] + label,label.notes, .file-btn-lt label,.form-box2 textarea.form-control {
+  font-size: 16px;
+}
+.new-task-box-outer {
+  padding: 0 50px;
+}
+.check-custom input[type="checkbox"] + label {
+  background-size: 34px auto;
+  line-height: 32px;
+  min-height: 34px;
+  padding-right: 44px;
+}
+.cmn-white-box1 {
+  padding: 25px;
+}
+.form-box2 textarea.form-control {
+  min-height: 180px;
+}
+.task-dtl p,.task-date {
+  font-size: 15px;
+  line-height: 24px;
+}
+.new-task-frm .wd-inr1 {
+  width: 210px;
+}
+.new-task-frm .wd-inr2 {
+  width: 110px;
+}
+.global-form label,.check-custom.chk-lt input[type="checkbox"] + label, .radio-custom.rdo-lt input[type="radio"] + label,.radio-custom input[type="radio"] + label{
+	font-size:16px;
+}
+.radio-custom input[type="radio"] + label {
+  background-size: 34px auto;
+  line-height: 32px;
+  min-height: 34px;
+  padding-right: 44px;
+}
+.check-custom.chk-lt input[type="checkbox"] + label, .radio-custom.rdo-lt input[type="radio"] + label {
+  padding: 0 0 0 44px;
+}
+.setting-nav {
+  border-radius: 4px;
+  min-width: 180px;
+}
+.setting-nav::before {
+  right: 11px;
+}
+.setting-nav ul li a {
+  font-size: 15px;
+  padding: 5px 5px 5px 30px;
+}
+.rt-btn2 {
+  margin-top: 10px;
+}
+.custom-popup2 .modal-dialog {
+  max-width: 700px;
+}
+.custom-popup2 .modal-dialog {
+  max-width: 650px;
+}
+.custom-popup2 .pop-inr-box1 {
+  padding-top: 55px;
+}
+.overlay-ldr {
+  width: 50px;
+}
+}
+@media only screen and (max-width:1400px){
+.menu ul li a img {
+  height: 40px;
+}
+.menu ul li a {
+  border-radius: 5px;
+  padding: 10px;
+}
+.login-btn {
+  font-size: 14px;
+  height: 28px;
+  line-height: 26px;
+  margin-right: 8px;
+  width: 80px;
+}
+.setting-btn {
+  width: 28px;
+}
+.tab-box .nav-tabs > li > a {
+  font-size: 16px;
+  line-height: 30px;
+  padding: 0 35px;
+}
+.dashboard-box1 {
+  padding: 15px;
+}
+.cmn-add-btn {
+  border-radius: 8px;
+  font-size: 13px;
+  height: 53px;
+  width: 100px;
+}
+.cmn-top-form {
+  margin: 0 18px 0 0;
+}
+.cmn-top-form .form-control {
+  height: 30px;
+}
+.cmn-top-form label {
+  margin: 4px 5px 0 0;
+}
+.cmn-top-form label, .cmn-top-form .form-control,.cmn-popup-form .form-group label, .cmn-popup-form .form-control {
+  font-size: 14px;
+}
+.custom-table1 .table-bordered > thead > tr > th, .custom-table1 .table-bordered > tbody > tr > td,.custom-table2 .table-bordered > thead > tr > th, .custom-table2 .table-bordered > tbody > tr > td {
+  font-size: 14px;
+}
+.cmn-popup-form .form-control {
+  height: 30px;
+}
+.cmn-popup-form .form-group label {
+  line-height: 28px;
+}
+.close-btn {
+  height: 28px;
+  width: 28px;
+}
+.arrow-btn {
+  height: 30px;
+  width: 32px;
+}
+.cmn-popup-form select.form-control {
+  background-size: 18px auto;
+}
+.cmn-top-form select.form-control,.cmn-popup-form select.form-control.sltd1 {
+  background-size: 20px auto;
+}
+.top-rt-form {
+  margin: 13px 0 0 15px;
+}
+.custom-table1 .table-bordered > thead > tr > th,
+.custom-table1 .table-bordered > tbody > tr > td,
+.custom-table2 .table-bordered > thead > tr > th,
+.custom-table2 .table-bordered > tbody > tr > td {
+  padding: 5px 10px;
+}
+.check-custom input[type="checkbox"] + label,label.notes, .file-btn-lt label,.form-box2 textarea.form-control {
+  font-size: 14px;
+}
+.task-dtl p,.task-date {
+  font-size: 14px;
+  line-height: 22px;
+}
+.form-box2 textarea.form-control {
+  min-height: 150px;
+}
+.cmn-white-box1 {
+  padding: 20px;
+}
+.new-task-box-outer {
+  padding: 0 40px;
+}
+.check-custom input[type="checkbox"] + label {
+  background-size: 30px auto;
+  line-height: 26px;
+  min-height: 30px;
+  padding-right: 40px;
+}
+.task-date span {
+  padding: 4px 0 0;
+}
+.scroll-inr-box {
+  padding: 15px;
+}
+.task-date {
+  padding: 0 0 0 10px;
+  width: 100px;
+}
+.task-loop-box {
+  padding: 0 0 20px 100px;
+}
+.check-custom.chk-lt input[type="checkbox"] + label {
+  padding: 0 0 0 38px;
+}
+.global-form label,.check-custom.chk-lt input[type="checkbox"] + label, .radio-custom.rdo-lt input[type="radio"] + label,.radio-custom input[type="radio"] + label,.login-inr .form-group label,.form-control,.check-custom.chk-lt input[type="checkbox"] + label,.frg-btn{
+	font-size:14px;
+}
+.radio-custom input[type="radio"] + label {
+  background-size: 30px auto;
+  line-height: 26px;
+  min-height: 30px;
+  padding-right: 38px;
+}
+.check-custom.chk-lt input[type="checkbox"] + label, .radio-custom.rdo-lt input[type="radio"] + label {
+  padding: 0 0 0 38px;
+}
+.setting-nav::before {
+  right: 24px;
+}
+.rt-btn2 {
+  margin-top: 5px;
+}
+.custom-popup2 .modal-dialog {
+  max-width: 600px;
+}
+.overlay-ldr {
+  width: 40px;
+}
+}
+@media only screen and (max-width:1339px){
+.menu ul li a img {
+  height: 34px;
+}
+.menu ul li a {
+  border-radius: 4px;
+  font-size: 12px;
+  padding: 10px 7px;
+}
+.hdr-box2 {
+  font-size: 12px;
+}
+.wd-inr1 {
+  width: 220px;
+}
+.wd-inr2 {
+  width: 110px;
+}
+.wd-inr3 {
+  width: 160px;
+}
+.wd-inr4 {
+  width: 125px;
+}
+.wd-inr5 {
+  width: 140px;
+}
+.cmn-btn {
+  font-size: 14px;
+  height: 40px;
+  line-height: 40px;
+}
+.close-btn {
+  height: 24px;
+  width: 24px;
+}
+.new-task-frm .wd-inr2 {
+  width: 95px;
+}
+.new-task-frm .wd-inr1 {
+  width: 185px;
+}
+.ldr-img {
+  top: 4px;
+}
+.setting-nav::before {
+  right: 9px;
+}
+.setting-nav ul li a::before {
+  left: 12px;
+  top: 5px;
+}
+.setting-nav ul li a {
+  font-size: 13px;
+  padding: 5px 5px 5px 25px;
+}
+}
+@media only screen and (max-width:1199px){
+.menu ul li a img {
+  height: 30px;
+}
+.menu ul li a {
+  font-size: 10px;
+  padding: 13px 5px;
+}
+.tab-box .nav-tabs > li > a {
+  font-size: 15px;
+  padding: 0 25px;
+}
+.dashboard-box1 {
+  padding: 10px;
+}
+.cmn-top-form label, .cmn-top-form .form-control, .cmn-popup-form .form-group label, .cmn-popup-form .form-control {
+  font-size: 13px;
+}
+.wd-inr1 {
+  width: 190px;
+}
+.wd-inr2 {
+  width: 100px;
+}
+.cmn-top-form .form-control {
+  padding-bottom: 2px;
+}
+.wd-inr3 {
+  width: 145px;
+}
+.wd-inr4 {
+  width: 100px;
+}
+.wd-inr5 {
+  width: 130px;
+}
+.cmn-add-btn {
+  margin: 0 10px 8px 0;
+}
+.top-rt-form {
+  margin: 7px 0 0;
+}
+.custom-table1 .table-bordered > thead > tr > th, .custom-table1 .table-bordered > tbody > tr > td, .custom-table2 .table-bordered > thead > tr > th, .custom-table2 .table-bordered > tbody > tr > td {
+  font-size: 13px;
+}
+.modal-dialog {
+  margin: 15px auto;
+  padding: 0 15px;
+}
+.pop-inr-box1 {
+  padding:30px 15px 15px;
+}
+.close-btn {
+  height: 20px;
+  right: 3px;
+  top: 3px;
+  width: 20px;
+}
+.frm-wd2 {
+  width: 23%;
+}
+.cmn-popup-form .form-group label {
+  line-height: normal;
+  padding: 5px 0 0;
+}
+.cmn-popup-form .form-control,.cmn-top-form .form-control {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.cmn-popup-form select.form-control,.cmn-top-form select.form-control,.cmn-top-form select.form-control, .cmn-popup-form select.form-control.sltd1 {
+  background-size: 16px auto;
+  padding-right: 18px;
+}
+.cmn-popup-form select.form-control.text-right {
+  padding-right: 22px;
+}
+.custom-table1 .table-bordered > thead > tr > th {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.8);
+}
+.arrow-btn {
+    width: 30px;
+}
+.custom-table1 .table-bordered > thead > tr > th,
+.custom-table1 .table-bordered > tbody > tr > td,
+.custom-table2 .table-bordered > thead > tr > th,
+.custom-table2 .table-bordered > tbody > tr > td {
+  padding: 5px 8px;
+}
+.new-task-box-outer {
+  padding: 0;
+}
+.check-custom input[type="checkbox"] + label {
+  margin: 0 15px 0 0;
+}
+.new-task-frm .wd-inr1 {
+  width: 170px;
+}
+.new-task-frm .wd-inr2 {
+  width: 80px;
+}
+.custom-popup2 .pop-inr-box1 {
+  padding-top: 35px;
+}
+}
+@media only screen and (max-width:991px){
+.menu ul li a.active::after {
+  display: none;
+}
+.menu ul li a {
+  font-size: 11px;
+  margin:2px;
+  padding: 5px 10px;
+}
+.menu ul li a img {
+  height: 24px;
+}
+.hdr-box1 {
+  display: inline-block;
+  float: right;
+  padding: 4px 0 0 15px;
+}
+.hdr-box2 {
+  display: inline-block;
+  float: right;
+  padding: 0;
+}
+.tab-box .nav-tabs > li > a {
+  font-size: 14px;
+  padding: 0 20px;
+}
+.cmn-top-form {
+  margin: 0 15px 10px 0;
+}
+.frm-wd1 {
+  margin: 0 2% 0 0;
+  width: 48%;
+}
+.frm-wd2 {
+  width: 100%;
+}
+.cmn-top-form label {
+  width: 70px;
+}
+.wd-inr1,.wd-inr2,.wd-inr3,.wd-inr4 {
+  width: 174px;
+}
+.menu ul li a img {
+  display: none;
+}
+.menu ul li a:hover, .menu ul li a.active {
+  box-shadow: 0 3px 3px -2px #818181 inset;
+  color: #f2f3ef;
+}
+.header {
+  background: #252525 none repeat scroll 0 0;
+  padding: 10px;
+}
+.top-rt-form {
+  margin: 0;
+}
+.wd-inr5 {
+  width: 120px;
+}
+.field4 {
+  width: 29%;
+}
+.new-task-frm .wd-inr1, .new-task-frm .wd-inr2 {
+  width: 130px;
+}
+.new-task-frm .wd2.const{
+	margin-right:0;
+}
+.rt-btn2 {
+  float: left !important;
+  margin-top: 0;
+  width: 100%;
+}
+.top-rt-form {
+  width: 100%;
+}
+}
+@media only screen and (max-width:767px){
+.login-inr {
+  padding: 20px;
+}
+.login-outer {
+  background: #ffffff none repeat scroll 0 0;
+  display: block;
+  left: auto;
+  margin: auto;
+  max-width: 500px;
+  padding: 0;
+  position: relative;
+  right: auto;
+  top: auto;
+  transform: inherit;
+  -moz-transform: inherit;
+  -webkit-transform: inherit;
+  width: auto;
+}
+}
+@media only screen and (max-width:639px){
+}
+@media only screen and (max-width:479px){
+}
+
+/*==================Bootstrap Responsive Tab CSS====================================*/
+@media (max-width: 767px) {
+.responsive-tabs-container.accordion-xs .nav-tabs{display:none}
+.responsive-tabs-container.accordion-xs .accordion-link{display:block}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.responsive-tabs-container.accordion-sm .nav-tabs{display:none}
+.responsive-tabs-container.accordion-sm .accordion-link{display:block}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+.responsive-tabs-container.accordion-md .nav-tabs{display:none}
+.responsive-tabs-container.accordion-md .accordion-link{display:block}
+}
+@media (min-width: 1200px) {
+.responsive-tabs-container.accordion-lg .nav-tabs{display:none}
+.responsive-tabs-container.accordion-lg .accordion-link{display:block}
+}

@@ -1,0 +1,16 @@
+{
+    "name": "StockControl",
+    "alias": "stockcontrol",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\StockControl\\Providers\\StockControlServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

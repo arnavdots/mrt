@@ -1,0 +1,16 @@
+{
+    "name": "Warranty",
+    "alias": "warranty",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Warranty\\Providers\\WarrantyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

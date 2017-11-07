@@ -1,0 +1,16 @@
+{
+    "name": "PickUp",
+    "alias": "pickup",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\PickUp\\Providers\\PickUpServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

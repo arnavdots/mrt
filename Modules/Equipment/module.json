@@ -1,0 +1,16 @@
+{
+    "name": "Equipment",
+    "alias": "equipment",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Equipment\\Providers\\EquipmentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

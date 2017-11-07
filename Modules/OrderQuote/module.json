@@ -1,0 +1,16 @@
+{
+    "name": "OrderQuote",
+    "alias": "orderquote",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\OrderQuote\\Providers\\OrderQuoteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
