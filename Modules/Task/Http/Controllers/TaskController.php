@@ -21,9 +21,10 @@ class TaskController extends Controller
      */
     public function index(Request $request)
     {
-        // testing use only
 
         try {
+            
+            // search form action
             $url = route('task.create');
             // ajax search
 
