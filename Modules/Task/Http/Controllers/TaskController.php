@@ -23,11 +23,8 @@ class TaskController extends Controller
     {
 
         try {
-            
-            // search form action
-            
+                        
             $url = route('task.create');
-
             $views = MrtHelpers::getTaskViews();
             $priorities = MrtHelpers::getTaskPriorities();
             $status = MrtHelpers::getTaskStatus();
@@ -35,9 +32,7 @@ class TaskController extends Controller
             // $results = Task::with('users')->get();
             $current_userid = Auth::guard('admin')->user()->id;
 
-            $query = Task::query();
-            $query->orderBy('created_at', 'DESC');
-            
+            $query = Task::query();  
             // ajax search
             if ($request->ajax()) {
                 if (!empty($request->consultant)) {
@@ -81,7 +76,7 @@ class TaskController extends Controller
 
             $query->whereDate('created_at', '>=', date('Y-m-d', strtotime('-7 day')));
             $query->whereDate('created_at', '<=', date('Y-m-d'));
-
+            $query->orderBy('created_at', 'DESC');
             $results = $query->sortable()->paginate(config('siteconstants.PER_PAGE_LIMIT'));
         } catch (Exception $e) {
             return redirect('tasks')->with('error', $e->getMessage());
