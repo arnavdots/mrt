@@ -19,6 +19,8 @@ class UserController extends Controller {
      * @return Response
      */
     public function index(Request $request) {
+        
+        // post form default url 
         $url = route('users.create');
         
         try {
