@@ -25,8 +25,8 @@ class TaskController extends Controller
         try {
             
             // search form action
+            
             $url = route('task.create');
-            // ajax search
 
             $views = MrtHelpers::getTaskViews();
             $priorities = MrtHelpers::getTaskPriorities();
@@ -37,6 +37,8 @@ class TaskController extends Controller
 
             $query = Task::query();
             $query->orderBy('created_at', 'DESC');
+            
+            // ajax search
             if ($request->ajax()) {
                 if (!empty($request->consultant)) {
                     $query->where('receiver_id', '=', $request->consultant);
